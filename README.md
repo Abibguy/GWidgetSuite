@@ -127,3 +127,5 @@ MIT License — do whatever you like, just don’t be surprised if your shell cr
 - Pull requests are welcome, but make it noodly.
 
 Written by a Linux Noob for Aesthetic Customisation on GNOME  人(_ _*)
+Planning to port to QT soon, cleaner and cross-platform. Currently working on making it Windows Compatible. For fun.
+Code is poor quality, pardon me. Comments in code are AI written (Github Copilot in Visual Studio Code)
