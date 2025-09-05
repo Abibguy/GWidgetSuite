@@ -1,7 +1,7 @@
 # GWidgetSuite
 
 **GWidgetSuite** is a collection of noodly, GTK3-based C++ widgets designed for Linux desktops.  
-Think of it as **“my shell, but blurred, rounded, and reborn”** — a fun, in-progress, playground for GNOME Ricers. ❀⸜(˶´ ˘ `˶)⸝❀
+Think of it as **“my shell, but with cool KDE-like Widgets and aesthetic”** — a fun, in-progress, playground for GNOME Ricers. ❀⸜(˶´ ˘ `˶)⸝❀
 
 ---
 
