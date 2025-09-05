@@ -21,6 +21,8 @@ All widgets are **GTK3/C++**, fully customizable, and designed to work on GNOME 
 ### Widgets
 ![Example Widget](screenshots/Screenshot%20From%202025-09-05%2009-44-20.png)
 
+![Example Screenshot](screenshots/Screenshot%20From%202025-09-05%2009-42-55.png)
+
 ### Widgets in action
 [Watch Screencast](screenshots/Screencast%20From%202025-09-05%2009-43-17.mp4)
 
